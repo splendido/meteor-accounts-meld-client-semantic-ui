@@ -1,0 +1,8 @@
+{
+	"name": "accounts-meld-client-semant-ui",
+	"description": "Client Side templates styled for Semantic Ui to be used with the Meteor package accounts-meld.",
+	"homepage": "https://github.com/splendido/meteor-accounts-meld-client-templates-semantic-ui",
+	"author": "Luca Mussi (https://github.com/splendido)",
+	"version": "1.0.0",
+	"git": "https://github.com/splendido/meteor-accounts-meld-client-templates-semantic-ui.git"
+}
